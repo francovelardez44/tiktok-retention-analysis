@@ -1,6 +1,7 @@
 Analizando el crecimiento de mi canal: De datos sucios a decisiones reales
 
 Por Franco
+
 Empecé este proyecto porque quería entender qué pasaba realmente con mis videos de fisiología. Las plataformas te dan números, pero no siempre te dicen la verdad sobre si a la gente le sirve lo que compartís. Este es el proceso que seguí para ordenar mis datos y sacar conclusiones claras.
 
 El problema
